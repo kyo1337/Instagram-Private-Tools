@@ -1,0 +1,16 @@
+{
+  "name": "cyberscreamer",
+  "version": "1.0.0",
+  "description": "Tools Instagram",
+  "author": "CCOCOT",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "cli-spinner": "^0.2.7",
+    "delay": "^2.0.0",
+    "inquirer": "^4.0.2",
+    "instagram-private-api": "^0.6.7",
+    "lodash": "^4.17.5",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
