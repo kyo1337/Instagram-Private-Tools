@@ -2,7 +2,7 @@
 <b>Thanks for ccocot and SGB-TEAM</b><br>
 <b>#############################</b><br><br>
 
-Easy Tutorial :
+# Easy Tutorial :
 1) Install NodeJS + NPM
 2) Install git
 3) Open CMD/Terminal
@@ -11,7 +11,7 @@ Easy Tutorial :
 6) node index.js
 
 
-Information Tools :
+# Information Tools :
 - Bot Like Timeline
 - Bot Like Target User
 - Mass Delete Post/Photo
