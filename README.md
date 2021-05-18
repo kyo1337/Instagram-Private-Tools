@@ -1,7 +1,7 @@
 # About Instagram Private Tools
-<b>########### Instagram-Tools ###########</b><br>
+<b>############ Instagram-Tools ############</b><br>
 <b>Thanks for ccocot and SGB-TEAM</b><br>
-<b>####################################</b><br>
+<b>#####################################</b><br>
 <b>Donate : https://sociabuzz.com/kyo1554/tribe</b>
 
 # Easy Tutorial :
